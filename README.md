@@ -14,11 +14,11 @@ By the end of this course, studens will develop the following skills:
 
 📁Repository Structure
 	📁assignments
- 		📈Unit 4 Assignment
-	  📊Unit 6 Assignment
+ 	📈Unit 4 Assignment
+	📊Unit 6 Assignment
 
 💻Technologies Used
-	📊Tableau
+  📊Tableau
   📈Excel
 
 📊Tableau Dashboards
