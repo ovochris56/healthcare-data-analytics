@@ -2,6 +2,8 @@
 
 Repository for coursework and projects from my **Healthcare Data Analytics (HI560)** class at Purdue University Global.
 
+This project explores patient trends to identify patterns in healthcare outcomes, helping optimize decision-making in clinical settings.
+
 📖Course Description:
 
 This course builds foundational skills in healthcare data analytics, empowering students to drive data-driven decision-making and contribute to performance improvement initiatives.
